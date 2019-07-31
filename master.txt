@@ -1,3 +1,7 @@
 master
 issue
+<<<<<<< HEAD
 kljdslkfjd
+=======
+klsdjflkdsjferr2
+>>>>>>> err2
